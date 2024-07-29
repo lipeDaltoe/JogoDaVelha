@@ -4,3 +4,6 @@ Configuração da Conta local do GIT:
 
 Executar o projeto
     npx expo start
+
+Antes de programar
+    npm i
